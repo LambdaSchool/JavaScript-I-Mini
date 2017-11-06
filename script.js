@@ -4,4 +4,4 @@ function sayName(name) {
     console.log(`hello my name is ${name}`);
 };
 
-sayName('Ting');
+sayName('Ryan');
