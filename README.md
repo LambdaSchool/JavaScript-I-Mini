@@ -19,4 +19,4 @@ In this mini lab you will get your environment configured and practice the basic
 * Push your changes to your fork: `git push origin master`
 * Submit a pull request back to the repo that you forked from (this repo).
 
-* The short hand for every step from adding changes rolled into one, is: `git commit -am "<Your message for commit>" && git push`
+* The short hand for every step from adding changes rolled into one, is: `git commit -am "<message>" && git push`
