@@ -20,3 +20,4 @@ In this mini lab you will get your environment configured and practice the basic
 * Submit a pull request back to the repo that you forked from (this repo).
 
 * The short hand for every step from adding changes rolled into one, is: `git commit -am "<message>" && git push`
+* Try `--help` behind a command for a copy of the man page describing the command in detail. `git add --help`
